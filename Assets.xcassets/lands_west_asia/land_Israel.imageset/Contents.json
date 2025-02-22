@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "land_Israel.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

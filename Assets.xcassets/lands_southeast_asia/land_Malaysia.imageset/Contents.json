@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "land_Malaysia.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

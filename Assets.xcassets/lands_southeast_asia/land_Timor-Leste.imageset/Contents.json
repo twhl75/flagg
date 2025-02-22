@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "land_Timor-Leste.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

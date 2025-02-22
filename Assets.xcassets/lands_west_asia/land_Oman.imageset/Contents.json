@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "land_Oman.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
